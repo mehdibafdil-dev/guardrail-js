@@ -1,0 +1,13 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    security-updates-only: true
+    assignees:
+      - "${{ github.repository_owner }}"
+    commit-message:
+      prefix: "fix"
+      prefix-development: "chore"
+      include: "scope"

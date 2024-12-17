@@ -1,0 +1,16 @@
+# Development files
+tests/
+security-tests/
+.github/
+scripts/
+reports/
+
+# Config files
+.eslintrc-security.json
+jest.config.js
+.gitignore
+
+# Documentation
+docs/
+*.md
+!README.md
