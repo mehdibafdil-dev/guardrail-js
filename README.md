@@ -12,7 +12,6 @@
 
 > Your intelligent security co-pilot for Node.js applications
 
-[![Security Checks](https://github.com/mehdibafdil-dev/guardrail-js/actions/workflows/security.yml/badge.svg)](https://github.com/mehdibafdil-dev/guardrail-js/actions/workflows/security.yml)
 [![npm version](https://badge.fury.io/js/guardrail-js.svg)](https://badge.fury.io/js/guardrail-js)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -104,12 +103,12 @@ guardrail-js/
 </p>
 
 ## 🛠️ Technical Stack
-Runtime: Node.js ≥ 18
-Testing: Jest + Supertest
-Security: Helmet, Express-rate-limit
-CI/CD: GitHub Actions
-Reporting: Custom markdown generator
-Static Analysis: ESLint + security plugins
+<p>Runtime: Node.js ≥ 18</p>
+<p>Testing: Jest + Supertest</p>
+<p>Security: Helmet, Express-rate-limit</p>
+<p>CI/CD: GitHub Actions</p>
+<p>Reporting: Custom markdown generator</p>
+<p>Static Analysis: ESLint + security plugins</p>
 
 ## 📊 Security Dashboard
 
@@ -141,7 +140,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 MEHDI BAFDIL
 - GitHub: [@mehdibafdil](https://github.com/mehdibafdil-dev)
-- Email: [mehdibafdil@gmail.com]
+- Email: mehdibafdil@gmail.com
 - Medium: [Mehdi BAFDIL](https://medium.com/@mehdibafdil)
 
 ## 🤝 Contributing
