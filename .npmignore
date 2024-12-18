@@ -1,9 +1,9 @@
 # Development files
 tests/
-security-tests/
+TEST/
 .github/
-scripts/
 reports/
+node_modules/
 
 # Config files
 .eslintrc-security.json

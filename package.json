@@ -1,6 +1,6 @@
 {
     "name": "guardrail-js",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Intelligent security pipeline for Node.js applications",
     "main": "src/index.js",
     "scripts": {
